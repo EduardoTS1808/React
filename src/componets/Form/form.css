@@ -1,0 +1,14 @@
+.formulario-teste{
+    margin: 20px auto;
+    padding: 30px;
+    height: 100%;
+}
+.formulario-teste .form{
+    display: block;
+}
+.formulario-teste .form label{
+    display: block;
+    padding: 10px;
+    margin: 10px;
+}
+
